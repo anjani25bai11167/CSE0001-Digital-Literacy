@@ -1,0 +1,22 @@
+To: [professor'sEmail@gmail.com]
+
+Subject: Request for Extension: [Assignment Name] - Anjani Kumar Singh- 25BAI11167 - EEE114
+
+Respected Professor,
+
+I am writing to respectfully request a short extension for the [Assignment Name], which is currently due on [Original Due Date].
+
+Due to [briefly and honestly state your reason, e.g., overlapping project deadlines / an unexpected minor illness / a sudden family matter], I am finding it challenging to complete the work to my usual standard by the current deadline.
+
+I have already made solid progress and have completed [mention 1-2 things you have already done, e.g., the initial dataset research and the outline], but I would greatly appreciate a bit more time to finalize the [mention what is left, e.g., the final analysis/model training].
+
+Would it be possible to submit my assignment by [Proposed New Date and Time]?
+
+I am happy to provide my current draft or code if you would like to review my progress. Thank you very much for your time and understanding.
+
+Sincerely,
+
+Anjani Kumar
+25BAI11167
+B.Tech Artificial Intelligence & Machine Learning
+VIT Bhopal
